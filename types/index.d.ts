@@ -173,6 +173,6 @@ declare class Viewer {
   static setDefaults(options: Viewer.Options): void;
 }
 
-declare module 'viewerjs' {
+declare module 'viewerjs-adizbek' {
   export default Viewer;
 }
