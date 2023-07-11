@@ -262,7 +262,8 @@ export default {
         } else {
           this.hide();
         }
-
+        event.stopPropagation();
+        event.preventDefault();
         break;
 
       // Space
