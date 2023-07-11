@@ -1,11 +1,11 @@
 /*!
- * ViewerAdizbek.js v1.11.3
+ * ViewerAdizbek.js v1.11.5
  * https://fengyuanchen.github.io/viewerjs
  *
  * Copyright 2015-present Chen Fengyuan
  * Released under the MIT license
  *
- * Date: 2023-07-11T10:18:40.061Z
+ * Date: 2023-07-11T10:35:56.982Z
  */
 
 'use strict';
