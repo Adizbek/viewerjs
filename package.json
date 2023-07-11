@@ -1,7 +1,7 @@
 {
   "name": "viewerjs-adizbek",
   "description": "JavaScript image viewer.",
-  "version": "1.11.3",
+  "version": "1.11.4",
   "main": "dist/viewer.common.js",
   "module": "dist/viewer.esm.js",
   "browser": "dist/viewer.js",
